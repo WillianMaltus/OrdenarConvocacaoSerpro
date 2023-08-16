@@ -1,4 +1,6 @@
 # Para quem veio conferir as listas
+A ordenação foi feita pela nota final, da maior pra menor
+
 Estão na pasta src\main\resources\Listas ordenadas
 
 oq está no txt: posição, numero de inscrição, nome e nota final
