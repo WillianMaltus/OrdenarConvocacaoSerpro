@@ -1,3 +1,7 @@
+# Para quem veio conferir as listas
+Estão na pasta src\main\resources\Listas ordenadas
+
+
 # OrdenarListaTxt
 Ordenar listas em formato txt
 
